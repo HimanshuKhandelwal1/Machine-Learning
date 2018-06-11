@@ -1,5 +1,5 @@
 # Machine Learning
-Description about Machine Learning, its type with example with Machine Learning algorithm in python Scripting. All the coding examples are written in the python scripting only.
+This repository contains some Data Science Projects with Machine Learning algorithms.
 # Types of Machine Learning
 # 1. Supervised Learning
 # 2. Unsupervised Learning

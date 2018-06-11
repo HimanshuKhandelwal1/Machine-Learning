@@ -5,7 +5,7 @@ This repository contains some Data Science Projects with Machine Learning algori
 # Types of Machine Learning
   Machine learning algorithm are categorized as supervised or unsupervised Learning. 
 ### 1. Supervised Learning
-       * Regression
-       * Classification
+  * Regression
+  * Classification
 ### 2. Unsupervised Learning
     

@@ -11,11 +11,11 @@ This repository contains some Data Science Projects with Machine Learning algori
 #### ii). Classification
 
 - ### Regression
-   - Regression problem is when the output variable(y) is a continous or real values examples, 'Salary', 'Housing cost', 
- 'Age of a person'. Whenever the dataset is labelled and the independent variable is some continous or real value than problem is of the 
+   - Regression problem is when the output variable(y) is a continous or real values examples, 'Salary', 'Housing cost', 'Age of a
+ person'. Whenever the dataset is labelled and the independent variable is some continous or real value than problem is of the 
  Regression supervised Machine Learning Problem and the output value will be predicted by using Regression Supervised Machine Learning 
  Algorithm.
-   - Here are some most popular Supervised Machine Learning Regression Algorithm are as follows:-
+   - Most common and popular Supervised Machine Learning Regression Algorithm are as follows:-
       -  __Simple Linear Regression__
       -  __Multiple Linear Regression__
       -  __Polynomial Regression__
@@ -23,16 +23,31 @@ This repository contains some Data Science Projects with Machine Learning algori
       -  __Decision Tree Regression__
       -  __Random Forest Regression__
            
-### II. Classification
-  - Classification problem is when the output variable(y) is categorized as 1 or 0, 'blue' or 'red', 'disease' or 'no disease'. The classification will come to the conclusion upon the observed values. Given one or more inputs a classification model will try to predict the value of one or more outcomes. For example, when filtering emails 'spam' or 'not spam', when looking at transaction data, 'fraudulent', or 'authorized'.
+- ### Classification
+   - Classification problem is when the output variable(y) is categorized as 1 or 0, 'blue' or 'red', 'disease' or 'no disease'. The
+ classification will come to the conclusion upon the observed values. Given one or more inputs a classification model will try to
+ predict the value of one or more outcomes. For example, when filtering emails 'spam' or 'not spam', when looking at transaction data,
+ 'fraudulent', or 'authorized'.
+   - Most Common and popular Supervised Machine Learning Classification Algorithm are as follows:-
+      - __Logistic __
+      - __K- Nearest Neighbors (K-NN)__
+      - __Support Vector Machine__
+      - __Kernel SVM__
+      - __Naive Bayes__
+      - __Decision Tree Classification__
+      - __Random Forest Classification__
   
 ## 2. Unsupervised Learning
   Unsupervised Learning is used to group together, the similar data points from a dataset which is neither classified nor labelled. Unsupervised Machine Learning algorithm can perform very complex processing task than Supervised Machine Leanring algorithm. The most common method of the Unsupervised Learning is clustering analysis.
-## * Clustering Methodology
-  - Clustering is similar to classification, but the basis is different. In Clustering we don’t know what we are looking for, and we are trying to identify some segments or clusters in our data. When we use clustering algorithms on our dataset, unexpected things can suddenly pop up like structures, clusters and groupings we would have never thought of otherwise.
-  - The Mothod of identifying the similar group of data from a dataset is called Clustering. In otherwords, the datapoint comparetively more similar to the other datapoint of that group than the datapoint of the other group. Hence, the Similar datapoint should be in one group and that will form Clustering.
-   In this I have implemented the most popular following two Machine Learning Clustering models:-
- ### 1. k-means Clustering
- ### 2. Hierarchical Clustering
+- ### Clustering Methodology
+   - Clustering is similar to classification, but the basis is different. In Clustering we don’t know what we are looking for, and we
+ are trying to identify some segments or clusters in our data. When we use clustering algorithms on our dataset, unexpected things can
+ suddenly pop up like structures, clusters and groupings we would have never thought of otherwise.
+   - The Method of identifying the similar group of data from a dataset is called Clustering. In otherwords, the datapoint comparetively
+ more similar to the other datapoint of that group than the datapoint of the other group. Hence, the Similar datapoint should be in one
+ group and that will form Clustering.
+   - In this I have implemented the most popular following two Machine Learning Clustering models:-
+      - __k-means Clustering__
+      - __Hierarchical Clustering__
  
   

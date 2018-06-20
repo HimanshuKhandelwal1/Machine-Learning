@@ -10,9 +10,9 @@ This repository contains some Data Science Projects with Machine Learning algori
 ###  i).  Regression
 ### ii). Classification
 
-- ###  Regression
-      - Regression problem is when the output variable(y) is a continous or real values examples, 'Salary', 'Housing cost', 'Age of a
- person'. Whenever the dataset is labelled and the independent variable is some continous or real value than problem is of the 
+- ### Regression
+   - Regression problem is when the output variable(y) is a continous or real values examples, 'Salary', 'Housing cost', 
+ 'Age of a person'. Whenever the dataset is labelled and the independent variable is some continous or real value than problem is of the 
  Regression supervised Machine Learning Problem and the output value will be predicted by using Regression Supervised Machine Learning 
  Algorithm.
       - Here are some most popular Supervised Machine Learning Regression Algorithm are as follows:-

@@ -10,7 +10,8 @@ This repository contains some Data Science Projects with Machine Learning algori
 ###  i).  Regression
 ### ii). Classification
 ### I. Regression
-  Regression problem is when the output variable(y) is a continous or real values examples, 'Salary', 'Housing cost', 'Age of a person'. Whenever the dataset is labelled and the independent variable is some continous or real value than problem is of the Regression supervised Machine Learning Problem and the output value will be predicted by using Regression Supervised Machine Learning Algorithm.
+  - Regression problem is when the output variable(y) is a continous or real values examples, 'Salary', 'Housing cost', 'Age of a person'. Whenever the dataset is labelled and the independent variable is some continous or real value than problem is of the Regression supervised Machine Learning Problem and the output value will be predicted by using Regression Supervised Machine Learning Algorithm.
+  - 
 ### II. Classification
   Classification problem is when the output variable(y) is categorized as 1 or 0, 'blue' or 'red', 'disease' or 'no disease'. The classification will come to the conclusion upon the observed values. Given one or more inputs a classification model will try to predict the value of one or more outcomes. For example, when filtering emails 'spam' or 'not spam', when looking at transaction data, 'fraudulent', or 'authorized'.
   

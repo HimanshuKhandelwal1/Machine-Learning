@@ -7,8 +7,8 @@ This repository contains some Data Science Projects with the implementation of s
 ## 1. Supervised Learning
   Supervised Learning is where you have the input variables(X) and output variables(y) and you use the various alogrithm to learn the mapping function between the input variables and output variable, i.e, X = f(y). Here the input variables are dependent variables and the output variables are the independent variables. The main task is to find the relation between the input and output variables, so the if new input variable is insert than it will predict the output value.
   The Supervised Machine Leanring Problems is grouped into two groups:-  
-####  i).  Regression
-#### ii). Classification
+ ####  i).  Regression
+ #### ii). Classification
 
 - ### Regression
    - Regression problem is when the output variable(y) is a continous or real values examples, 'Salary', 'Housing cost', 'Age of a

@@ -29,7 +29,7 @@ This repository contains some Data Science Projects with Machine Learning algori
  predict the value of one or more outcomes. For example, when filtering emails 'spam' or 'not spam', when looking at transaction data,
  'fraudulent', or 'authorized'.
    - Most Common and popular Supervised Machine Learning Classification Algorithm are as follows:-
-      - __Logistic __
+      - __Logistic Regression__
       - __K- Nearest Neighbors (K-NN)__
       - __Support Vector Machine__
       - __Kernel SVM__

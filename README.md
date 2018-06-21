@@ -49,5 +49,8 @@ This repository contains some Data Science Projects with the implementation of s
    - In this I have implemented the most popular following two Machine Learning Clustering models:-
       - __k-means Clustering__
       - __Hierarchical Clustering__
+      
+## Association Rule Learning
+## Natural Language Processing
  
   

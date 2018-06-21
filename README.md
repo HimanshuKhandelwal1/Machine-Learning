@@ -4,7 +4,7 @@ This repository contains some Data Science Projects with the implementation of s
   Machine Learning is a part of the Artifical intelligence(AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. The process of leanring begin with the observations or data, It will learn automatically without any human intervention by looking for the pattern in the data and take the future decision. 
 ## Types of Machine Learning
   Machine learning algorithm are categorized as supervised or unsupervised Learning. 
-## 1. Supervised Learning
+### 1. Supervised Learning
   Supervised Learning is where you have the input variables(X) and output variables(y) and you use the various alogrithm to learn the mapping function between the input variables and output variable, i.e, X = f(y). Here the input variables are dependent variables and the output variables are the independent variables. The main task is to find the relation between the input and output variables, so the if new input variable is insert than it will predict the output value.
   The Supervised Machine Leanring Problems is grouped into two groups:-  
  ####   i).  Regression
@@ -37,7 +37,7 @@ This repository contains some Data Science Projects with the implementation of s
       - __Decision Tree Classification__
       - __Random Forest Classification__
   
-## 2. Unsupervised Learning
+### 2. Unsupervised Learning
   Unsupervised Learning is used to group together, the similar data points from a dataset which is neither classified nor labelled. Unsupervised Machine Learning algorithm can perform very complex processing task than Supervised Machine Leanring algorithm. The most common method of the Unsupervised Learning is clustering analysis.
 - ### Clustering Methodology
    - Clustering is similar to classification, but the basis is different. In Clustering we don’t know what we are looking for, and we

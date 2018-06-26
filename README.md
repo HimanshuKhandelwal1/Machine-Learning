@@ -50,6 +50,7 @@ This repository contains some Data Science Projects with the implementation of s
       - __k-means Clustering__
       - __Hierarchical Clustering__
       
+## Some other areas of Machine Learning Algorithm
 ### Association Rule Learning
    - Assocaitive learning is a rule based Machine Learning method for discovering the interesting relations between the variables in a large datasets. It is used to uncover how the items are related to each other in a shoping mall or mart.
    - In this I have implemented the most popular Association rule algoritham:

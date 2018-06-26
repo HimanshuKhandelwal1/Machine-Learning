@@ -51,6 +51,17 @@ This repository contains some Data Science Projects with the implementation of s
       - __Hierarchical Clustering__
       
 ### Association Rule Learning
-### Natural Language Processing
+ - Assocaitive learning is a rule based Machine Learning method for discovering the interesting relations between the variables in a large datasets. It is used to uncover how the items are related to each other in a shoping mall or mart.
+     - In this I have implemented the most popular Association rule algoritham:
+     - __Apriori__
+
+
+- ### Natural Language Processing
+     - Natural Langauge Processing is the application of the Machine Learning in text and languages. It is a area of
+comparision and (AI) concerned with the interaction between computer and human languages. Teaching machine to understand
+what is used in spoken and written word is the focus of NLP.
+     - It is used to detect your command and convert into the data for running the algo for desired purpose.
+     - Some important libraries for NLP are Spacy, NLTK, OpenNLP, Standford NLP.
+     - Here i have implement Machine Learning NLP model
  
   

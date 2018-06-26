@@ -64,5 +64,6 @@ what is used in spoken and written word is the focus of NLP.
    - It is used to detect your command and convert into the data for running the algo for desired purpose.
    - Some important libraries for NLP are Spacy, NLTK, OpenNLP, Standford NLP.
    - Here i have implement Machine Learning NLP model
+      - __Bag of words model__
  
   

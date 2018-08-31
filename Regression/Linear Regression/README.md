@@ -1,5 +1,5 @@
 #Linear Regression
-Linear Regression is the most simplest and widely used technique in Machine Learning. It represents the straight line that line is a prediction.
+Linear Regression is the most simplest and widely used technique in Machine Learning. It is the supervised Machine Learning. It represents the straight line that line is a prediction.
 The line looks like this:-
 
 ###    Y = bX + c
